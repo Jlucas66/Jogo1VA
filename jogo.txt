@@ -38,16 +38,3 @@ int main(void) {
     limite();
     return 0; 
     }
-
-/* script
-- criar as paredes e tentar fazer com que elas se movam aleatoriamente.
-- criar o boneco e fazer com que ele se mova de acordo com os comandos do
-usuário.
-- fazer com que, se o boneco tocar nas paredes, o jogo acabe.
-- colocar um tempo para que depois de alguns segundos as paredes comecem a
-fechar, tornando o jogo mais difícil.
-- tentar colocar um controlador de velocidade do boneco, para que o jogo fique
-mais interativo.
-- colocar outras formas/fases no jogo, como por exemplo um círculo, um trapézio,
-etc.
-*/
